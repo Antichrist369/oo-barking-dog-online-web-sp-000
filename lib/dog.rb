@@ -4,7 +4,7 @@ class Dog
     fido.name
   end 
   
-  def dog_has_a_name
+  def name
     fido = dog_has_a_name
   end 
   

@@ -5,7 +5,7 @@ class Dog
   end 
   
   def name
-   fido.name = "fido"
+    puts "Fido"
   end 
   
   def bark 

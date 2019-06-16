@@ -5,7 +5,7 @@ class Dog
   end 
   
   def dog_has_a_name
-    fido.name = "Fido"
+    fido = dog_has_a_name
   end 
   
   def bark 

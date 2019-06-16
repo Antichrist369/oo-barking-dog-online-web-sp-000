@@ -4,7 +4,6 @@ class Dog
   end 
   
   def name 
-    Dog_has_a_name = fido 
   end 
   
   def bark 
